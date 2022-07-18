@@ -1,16 +1,6 @@
-<div align="center">
-<a href="https://github.com/nx-space" target="_blank" rel="noopener noreferrer"><img width="100" src="https://avatars.githubusercontent.com/u/106414194" alt="NEXT logo"></a>
-<h1>Project-Name
-<!-- <small><code>WIP</code></small> -->
-</h1>
-  <p>
-  Project-Desc
-  </p>
-</div>
+# Project-Name `WIP`
 
-
-
-<br />
+Project-Desc
 
 ## License
 
